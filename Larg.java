@@ -13,18 +13,18 @@ public class Larg {
 	  if(a>c)
 	  {
 		  if(a>b) {
-			  System.out.println("the largest num is"+a);
+			  System.out.println("the largest num is "+a);
 		  }
 		  else {
-			  System.out.println("the largest num is"+b);
+			  System.out.println("the largest num is "+b);
 		  }
 	  }
 	  else if(c>b) {
-		  System.out.println("the largest num is"+c);
+		  System.out.println("the largest num is "+c);
 		  
 	  }
 	  else {
-		  System.out.println("the largest num is"+b);
+		  System.out.println("the largest num is "+b);
 	  }
 	}
 
